@@ -40,7 +40,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,android,Swift,Java,kotlin,jquery,materialui,tailwind,redux,ts,mongodb,mysql,threejs,django,next,postman,java,aws,vercel,firebase,git=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
 </a>
 
 </div>
