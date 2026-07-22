@@ -79,17 +79,3 @@ I genuinely love building for Android. ❤️ I care about the details, the arch
 
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshpatel0909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel0909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpatel0909&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
-
-</div>
-
----
