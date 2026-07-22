@@ -10,28 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-> *"I've always believed that the best way to grow as a developer is to build things that actually matter to someone."* 💡
+> *"The best way to grow as a developer is to build things that actually matter to people."* 💡
 
-My Android journey began during my engineering degree, when a friend pointed me toward mobile development — and something just clicked. I started learning on my own: watching tutorials late at night, building small apps, figuring things out piece by piece. By my final year of college, I wasn't waiting to graduate — I had already stepped into my first professional role, writing Kotlin and shipping real features for real clients.
+I am a passionate **Android & Mobile Developer** with **3+ years of experience** building scalable, user-centric mobile applications. My journey started during my engineering degree, taking on my first professional Kotlin role before graduation. Since then, I’ve owned end-to-end features—focusing on clean architecture, smooth performance, and robust mobile experiences.
 
-Not every feature shipped cleanly on the first try — and honestly, I'm grateful for that. The hard problems, the late fixes, the moments of starting over taught me how to think like a **real developer**, not just write code.
-
-Over **3+ years**, I worked through full feature ownership — building in Kotlin and Java on the Android platform, then layering in MVVM architecture, Hilt, Firebase, Jetpack Compose, REST APIs, and Kotlin Coroutines. I learned to write code that teams could actually read, maintain, and build on.
-
-There came a point where I wanted more — more exposure, more challenge, more room to grow. So I made the decision to **move to Canada**, and Fanshawe College's Mobile Application Development program gave me exactly the structure and depth I was looking for. 🎓
-
-- 🎯 Graduated with a **3.96 GPA** on the **Dean's Honour Roll**
-- 🤝 Completed a hands-on **co-op placement**
-- 🧪 Expanded into **Kotlin Multiplatform & Gemini AI** integration
-- ⚙️ Learned **CI/CD automation** with GitHub Actions
-- 📜 Earned certifications from **JetBrains, Google & GitHub**
-
-I genuinely love building for Android. ❤️ I care about the details, the architecture decisions, the user experience behind every screen. And I'm at a point in my career where I'm ready to bring all of that into a team that cares just as much.
-
-> 💬 *If you have an opportunity for an Android Developer who genuinely loves what they build, I'd love to hear from you.*  
-> 📩 **harshbpatel0909@gmail.com** — let's create something meaningful together! 🚀
-
----
+I love solving complex mobile architecture problems and crafting intuitive user experiences. I’m currently open to full-time **Android / Mobile Developer** roles where I can contribute to meaningful products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel0909/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshbpatel0909@gmail.com)
@@ -74,8 +57,111 @@ I genuinely love building for Android. ❤️ I care about the details, the arch
 ![Room](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+---<h2 align="center">🏆 Certifications</h2>
+
+<div align="center">
+  <table border="0" width="100%" style="width: 100%; border-collapse: collapse; border: none;">
+    <!-- Row 1 -->
+    <tr>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <a href="https://coursera.org/verify/professional-cert/95KV9YXSEYQB" target="_blank">
+          <img src="./assets/search.png" alt="Google" height="52" />
+        </a>
+        <br/><br/>
+        <b>Google AI<br/>Professional Certificate</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/jetbrains-com-logo.png" alt="JetBrains" height="52" />
+        <br/><br/>
+        <b>Kotlin<br/>Professional Certificate</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>Android Compose<br/>with Kotlin</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>AI-Powered Android<br/>Apps with Gemini</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/github.png" alt="GitHub" height="52" />
+        <br/><br/>
+        <b>Career Essentials<br/>in GitHub Copilot</b>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>Atlassian Agile<br/>Project Management</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>Scrum:<br/>The Basics</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>GitHub Actions<br/>for CI/CD</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>Learning Git<br/>and GitHub</b>
+      </td>
+      <td align="center" width="20%" valign="top" style="padding: 16px; border: none;">
+        <img src="./assets/linkedin.png" alt="LinkedIn" height="52" />
+        <br/><br/>
+        <b>Learning Jira<br/>(Cloud Edition)</b>
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
+<br />
+
+<div align="center">
+
+  <!-- Dynamic Typography Header -->
+  <a href="https://linkedin.com/in/harsh-patel0909">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=%F0%9F%A4%9D+Let's+Connect+%26+Build+Together!;%F0%9F%93%B1+Open+to+Android+%26+Mobile+Roles;%F0%9F%87%A8%F0%9F%87%A6+Based+in+Canada" alt="Typing Header" />
+  </a>
+
+  <br/><br/>
+
+  <h3><b>I am actively seeking <mark>Android / Mobile Developer</mark> opportunities across Canada 🇨🇦</b></h3>
+  <h4><i>Open to Full-Time, Hybrid, and Remote Roles.</i></h4>
+
+  <br/>
+
+  <!-- High-Impact Social Buttons -->
+  <a href="https://www.linkedin.com/in/harsh-patel0909/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:harshbpatel0909@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Harsh12270743" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="40" alt="Twitter" />
+  </a>
+
+  <br/><br/><br/>
 
 
+  <br/>
 
+  <p>
+    <b><code>Crafted with ❤️ by Harsh Patel</code></b>
+  </p>
 
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:2563eb,100:0f172a&height=140&section=footer" width="100%"/>
+
+</div>
